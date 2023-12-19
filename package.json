@@ -1,0 +1,12 @@
+{
+  "name": "traffic-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd frontend && pnpm install && pnpm build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
